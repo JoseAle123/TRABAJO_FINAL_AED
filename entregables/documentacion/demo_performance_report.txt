@@ -1,0 +1,29 @@
+=== REPORTE DE RENDIMIENTO ===
+Generado: 1753765591
+Total de pruebas: 3
+
+Algoritmo		Grafo	Inicio	Destino	Tiempo(ms)	Nodos	Distancia	Memoria(MB)	Camino
+----------------------------------------------------------------------------------------
+BFS		5000	0	2500	0		32	N/A		0		No
+Dijkstra		5000	0	2500	1		32	N/A		0		No
+A*		5000	0	2500	0		85	N/A		0		No
+
+=== ESTADÍSTICAS RESUMIDAS ===
+BFS:
+  Búsquedas totales: 1
+  Búsquedas exitosas: 0 (0%)
+  Tiempo promedio: 0 ms
+  Nodos promedio explorados: 32
+
+Dijkstra:
+  Búsquedas totales: 1
+  Búsquedas exitosas: 0 (0%)
+  Tiempo promedio: 1 ms
+  Nodos promedio explorados: 32
+
+A*:
+  Búsquedas totales: 1
+  Búsquedas exitosas: 0 (0%)
+  Tiempo promedio: 0 ms
+  Nodos promedio explorados: 85
+
